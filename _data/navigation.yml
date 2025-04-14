@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
+    url: /cv/
     url: /files/Ali_Tehrani - Resume.pdf
     
   # - title: "CV"
