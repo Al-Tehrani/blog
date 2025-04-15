@@ -3,7 +3,7 @@ title: "Interpretable Machine Learning (IML) Methods: Classification and Solutio
 collection: Thesis
 category: manuscripts
 permalink: https://hdl.handle.net/10012/21040
-excerpt: 'This thesis explores interpretable machine learning (IML) techniques, focusing on model transparency for high-stakes decisions. It provides an overview of ML models and delves into the classification of interpretable models, aiming to bridge the gap between complex algorithms and real-world applications.'
+excerpt: 'This thesis explores the realm of machine learning (ML), focusing on enhancing model interpretability called interpretable machine learning (IML) techniques. The initial chapter provides a comprehensive overview of various ML models, including supervised, unsupervised, reinforcement, and hybrid learning methods, emphasizing their specific applications across diverse sectors. The second chapter delves into methodologies and the categorization of interpretable models. The research advocates for transparent and understandable IML models, particularly crucial in high-stakes decision-making scenarios. By integrating theoretical insights and practical solutions, this work contributes to the growing field of IML, aiming to bridge the gap between complex IML algorithms and their real-world applications.'
 date: 2024-09-18
 venue: 'University of Waterloo'
 slidesurl: 'https://hdl.handle.net/10012/21040'
