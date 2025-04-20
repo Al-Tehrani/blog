@@ -8,7 +8,11 @@ date: 2024-09-18
 venue: "University of Waterloo"
 slidesurl: "/files/Master%27s%20Thesis.pptx"
 paperurl: "/files/GhaffarTehrani_Alireza.pdf"
-bibtexurl: "https://hdl.handle.net/10012/21040"
+bibtexurl: "@article{tehrani2024interpretable,
+  title={Interpretable Machine Learning (IML) Methods: Classification and Solutions for Transparent Models},
+  author={Tehrani, Alireza Ghaffar},
+  year={2024}
+}"
 citation: "Alireza GhaffarTehrani. (2024). \"Interpretable Machine Learning (IML) Methods: Classification and Solutions for Transparent Models.\" Master's Thesis, University of Waterloo."
 ---
 
