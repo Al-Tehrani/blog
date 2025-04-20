@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "minimal-dark"
 title                    : "AL 's Homepage"
 title_separator          : "-"
 name                     : &name "AL Tehrani"
