@@ -25,7 +25,7 @@ main:
     
   - title: "CV"
     url: /cv/
-    url: /files/Ali_Tehrani - Resume.pdf
+    # url: /files/Ali_Tehrani - Resume.pdf
     
   # - title: "CV"
   #   url: /cv-json/
