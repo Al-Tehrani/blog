@@ -6,8 +6,8 @@ permalink: https://hdl.handle.net/10012/21040
 excerpt: "This thesis explores the realm of machine learning (ML), focusing on enhancing model interpretability called interpretable machine learning (IML)."
 date: 2024-09-18
 venue: "University of Waterloo"
-slidesurl: "/files/Master%27s%20Thesis.pptx"
-paperurl: "/files/GhaffarTehrani_Alireza.pdf"
+slidesurl: "/assets/AL_Tehrani-thesis_slides.pptx"
+paperurl: "/assets/AL_Tehrani-thesis_paper.pdf"
 bibtexurl: "@article{tehrani2024interpretable,
   title={Interpretable Machine Learning (IML) Methods: Classification and Solutions for Transparent Models},
   author={Tehrani, Alireza Ghaffar},
