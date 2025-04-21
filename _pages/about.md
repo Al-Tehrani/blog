@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!  
 ======
-## This page is under construction
+<h2 style="color:#ffcc00; font-style: italic;">This page is under construction</h2>
 
 I'm **AL Tehrani**, a data scientist and software developer with a strong foundation in statistics, computer engineering, and machine learning. I am currently completing my **MMath in Data Science at the University of Waterloo**, where my thesis focuses on **Interpretable Machine Learning (IML)**—developing transparent and trustworthy models.
 
