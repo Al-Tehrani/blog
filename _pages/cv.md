@@ -7,10 +7,12 @@ redirect_from:
   - /resume
 ---
 <p style="text-align:center; margin-top: 20px;">
-  <a href="{{ '/files/Alireza_CV.pdf' | relative_url }}" download class="btn btn--primary">
+  <a href="{{ '/files/Ali_Tehrani - Resume.pdf' | relative_url }}" download 
+     style="background-color:#007acc; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
     📄 Download My CV (PDF)
   </a>
 </p>
+
 
 {% include base_path %}
 
