@@ -19,7 +19,7 @@ redirect_from:
 Education
 ======
 * MMath in Data Science, University of Waterloo, 2025 (expected)
-* B.E. in Computer Engineering, Tehran Polytechnic (Amirkabir) University, 2022
+* B.E. in Computer Engineering, Amirkabir University (Tehran Polytechnic), 2022
 * B.S. in Statistics, Tehran University, 2014
 
 Work experience
@@ -82,10 +82,10 @@ Skills
   * JavaScript (JS)
 
 * Frameworks & Tools
- * TensorFlow 
- * PyTorch
- * Keras
- * Git (version control)
+  * TensorFlow 
+  * PyTorch
+  * Keras
+  * Git (version control)
 
 * Software Engineering Concepts 
   * Data Structure & Algorithms
