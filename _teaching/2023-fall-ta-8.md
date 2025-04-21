@@ -1,5 +1,5 @@
 ---
-title: "fall 2023, University of Waterloo, STAT 230"
+title: "Fall 2023, University of Waterloo, STAT 230"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-ta-8
