@@ -10,7 +10,7 @@ redirect_from:
 Welcome!  
 ======
 
-I'm **Alireza GhaffarTehrani**, a data scientist and software developer with a strong foundation in statistics, computer engineering, and machine learning. I recently completed my **MMath in Data Science at the University of Waterloo**, where my thesis focused on **Interpretable Machine Learning (IML)** methods for building transparent and trustworthy models.
+I'm **AL Tehrani**, a data scientist and software developer with a strong foundation in statistics, computer engineering, and machine learning. I recently completed my **MMath in Data Science at the University of Waterloo**, where my thesis focused on **Interpretable Machine Learning (IML)** methods for building transparent and trustworthy models.
 
 This website serves as a portfolio of my academic background, professional experience, and personal projects. You’ll find details about my:
 
