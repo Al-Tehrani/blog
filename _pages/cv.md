@@ -46,14 +46,14 @@ Work experience
     * Enhanced operational efficiency by designing and implementing scalable machine learning algorithms that improved model performance.
   * Supervisor: Professor Nikabadi
 
-  * Fall 2020 - Spring 2021: Software Tester & Software Developer
+* Fall 2020 - Spring 2021: Software Tester & Software Developer
   * Intelligence Computing Base Inc.
   * Duties included: 
     * Developed and optimized software applications using Python, enhancing system performance and user satisfaction.
     * Conducted thorough automated and manual testing of software solutions, ensuring high reliability and compliance with development standards.
   * Supervisor: Professor Momtazi
 
-  * Fall 2014 - Spring 2022: High School Mathematics Teacher
+* Fall 2014 - Spring 2022: High School Mathematics Teacher
   * InDepartment of Education & Training Center
   * Duties included: 
     * Taught a diverse curriculum encompassing Statistics, Probability, Combinatorics, Enumeration, Calculus, Algebra and Algorithms.
@@ -127,5 +127,5 @@ Teaching
 Voluntary Experience 
 ======
 * Secretary, Student & Postdoc Advisory Committee (SPAC)
-* CS-CAN | Info-Can
+* CS-CAN  
 * Served as the Secretary of SPAC for nearly 2 years, contributing to initiatives that support students and postdoctoral researchers in the Canadian computer science community.
