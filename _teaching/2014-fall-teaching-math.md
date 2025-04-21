@@ -1,10 +1,10 @@
 ---
-title: "Mathematics"
+title: "High School Mathematics"
 collection: teaching
 type: "High school course"
 permalink: /teaching/2014-fall-teaching-math
 venue: "Department of Education & Training Center"
-date: 2014-09-01
+date: 2014-09-01 to 2022-08-31
 location: "Tehran, Iran"
 ---
 
@@ -14,5 +14,4 @@ High school math grade 9 to 12
 
 🧾 Course Description (Content Summary)
 ======
-Delivered comprehensive instruction in high school mathematics across grades 9 to 12. The curriculum included core and advanced topics such as Statistics, Probability, Combinatorics, Enumeration, Calculus, Algebra, and Algorithmic Thinking. Emphasized conceptual understanding and problem-solving through tailored lesson plans and interactive teaching methodologies.
-
+Taught a wide range of high school mathematics courses from Grades 9 to 12, covering both foundational and advanced topics. Areas of instruction included Statistics, Probability, Combinatorics, Enumeration, Algebra, Calculus, and Algorithmic Thinking. Focused on fostering strong conceptual understanding, analytical skills, and academic confidence through interactive lessons, customized teaching strategies, and consistent assessment and feedback practices.

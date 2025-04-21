@@ -1,10 +1,10 @@
 ---
-title: "Fall 2022, University of Waterloo, STAT 202"
+title: "fall 2023, University of Waterloo, STAT 202"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-ta-1
+permalink: /teaching/2023-fall-ta-7
 venue: "University of Waterloo, Department of Statistics and Actuarial Science"
-date: 2022-09-01
+date: 2023-09-01
 location: "Waterloo, Canada"
 ---
 

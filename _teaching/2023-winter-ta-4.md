@@ -1,20 +1,30 @@
 ---
-title: "AFM 113"
+title: "Winter 2023, University of Waterloo, ME 202"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-ta-4
-venue: "University of Waterloo, Department of Accounting & Financial Management"
+permalink: /teaching/2023-winter-ta-4
+venue: "University of Waterloo, Department of Mechanical Engineering"
 date: 2023-01-01
 location: "Waterloo, Canada"
 ---
 
 📚 Course Title & Code
 ======
-AFM 113 – Analytic Methods for Business 2
+**ME 202 – Statistics for Engineers**
 
 🧾 Course Description (Content Summary)
 ======
-The second course in a two-part sequence introducing analytical and statistical methods commonly used in business contexts, with a focus on applications relevant to accounting and finance professionals. Emphasis is placed on practical problem-solving using quantitative tools to support data-driven decision-making in business environments.
+This course introduced key statistical concepts and methodologies tailored for engineering applications. Covered topics included:
 
+- Frequency distributions and data visualization  
+- Measures of central tendency and variability (e.g., mean, standard deviation)  
+- Fundamentals of probability theory  
+- Discrete and continuous probability distributions:
+  - Binomial, Poisson, and Normal distributions  
+- Sampling techniques and statistical estimation  
+- Hypothesis testing using t-tests and chi-squared tests  
+- Least squares curve fitting and linear regression  
+- Statistical process control methods  
+- Experimental design principles for engineering studies  
 
-
+As a Teaching Assistant, I supported students through tutorials and office hours, provided detailed feedback on assignments and exams, and helped reinforce the application of statistical tools in solving real-world engineering problems.

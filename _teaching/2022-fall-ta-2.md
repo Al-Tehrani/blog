@@ -1,5 +1,5 @@
 ---
-title: "ME 202"
+title: "Fall 2022, University of Waterloo, ME 202"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-ta-2
@@ -10,11 +10,21 @@ location: "Waterloo, Canada"
 
 📚 Course Title & Code
 ======
-ME 202 – Statistics for Engineers
+**ME 202 – Statistics for Engineers**
 
 🧾 Course Description (Content Summary)
 ======
-This course covers fundamental statistical techniques essential for engineering applications. Topics include frequency distributions, measures of central tendency and dispersion (such as standard deviation), probability theory, and key probability distributions including binomial, Poisson, and normal distributions. Additional topics include sampling methods, statistical estimation, hypothesis testing (t-tests and chi-squared tests), least squares curve fitting, statistical process control, correlation, regression, and the principles of experimental design.
+This course introduced key statistical concepts and methodologies tailored for engineering applications. Covered topics included:
 
+- Frequency distributions and data visualization  
+- Measures of central tendency and variability (e.g., mean, standard deviation)  
+- Fundamentals of probability theory  
+- Discrete and continuous probability distributions:
+  - Binomial, Poisson, and Normal distributions  
+- Sampling techniques and statistical estimation  
+- Hypothesis testing using t-tests and chi-squared tests  
+- Least squares curve fitting and linear regression  
+- Statistical process control methods  
+- Experimental design principles for engineering studies  
 
-
+As a Teaching Assistant, I supported students through tutorials and office hours, provided detailed feedback on assignments and exams, and helped reinforce the application of statistical tools in solving real-world engineering problems.
