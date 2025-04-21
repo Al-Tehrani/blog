@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Academic & Professional Homepage. This page is still under construction"
+title: "Academic & Professional Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!  
 ======
-
+## This page is still under construction
 I'm **AL Tehrani**, a data scientist and software developer with a strong foundation in statistics, computer engineering, and machine learning. I recently completed my **MMath in Data Science at the University of Waterloo**, where my thesis focused on **Interpretable Machine Learning (IML)** methods for building transparent and trustworthy models.
 
 This website serves as a portfolio of my academic background, professional experience, and personal projects. You’ll find details about my:
